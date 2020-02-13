@@ -5,8 +5,19 @@
 
 //categories: 与你有关的999件小事
 ---
-<center>2019年8月21日，你对我说：“就像我，是你一辈子都得不到的男人”。</center>
-&nbsp;
-<center>我回：“When nothing is sure, everything is possible.”</center>
-&nbsp;
-<center>我当时就敏锐的嗅出，这可能是我测试生涯中，所能测出的最大bug.</center>
+<center> 也曾自我麻痹过 </br>
+试图逃离过 </br>
+妄想跟人性抗争过 </br>
+最终接连败北 </br>
+于是我缴械投降 </br>
+放弃抵抗 </br>
+只想一股脑的奔向你 </br>
+爱你这件小事 </br>
+是我这二十多年来 </br>
+内心里经过的最大一场战役 </br>
+现在战斗的号角又重新吹响 </br>
+一切才刚刚开始 </br>
+“当我跨过沉沦的一切 </br>
+向着永恒开战的时候 </br>
+你是我的军旗”</center>
+

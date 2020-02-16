@@ -3,10 +3,5 @@
 date: 2020-02-05 12:25:39
 type: "about"
 ---
-<center><font color=#4682B4 size=3><b>NANA:</b></font></center>
-   <center> Hi, I am NANA.</center><center>This web page is made by me for my YOUYOU.</center><br/>
-
-
-<center><font color=#CD8C95 size=3><b>YOUYOU:</b></font></center>
-<center> Hi, I am YOUYOU.</center><center>These articles are written by me for my NANA.</center>
-
+<center>👦🏻：Hi, I am NANA.<br/>This web page is made by me for my YOUYOU.</center><br/>
+<center>👩🏻：Hi, I am YOUYOU.<br/>These articles are written by me for my NANA.</center>

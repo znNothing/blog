@@ -1,4 +1,4 @@
-​	//title: 首页
+//title: 首页
 //author: nana&youyou
 //date: 
 //tags:
@@ -44,8 +44,9 @@ table.mystyle
 }
 p.myp
     {
-        text-align:right;
-        height:16px;
+        text-align:center;
+        height:auto;
+        margin:5px;
     }
 </style>
 <div class=WordSection1>
@@ -53,8 +54,8 @@ p.myp
 <table class="mystyle">
  <tr>
   <td valign=top>
-  <p class="myp" >在广袤的空间和无限的时间中，能与你共享同一颗行星和同一段时光，是我的荣幸。</p>
-  <p class="myp" >——卡尔萨根《宇宙》</p>
+  <p class="myp">在广袤的空间和无限的时间中，能与你共享同一颗行星和同一段时光，是我的荣幸。</p>
+  <p class="myp"><font size=1.5>卡尔萨根「宇宙」</p>
   </td>
  </tr>
 </table>

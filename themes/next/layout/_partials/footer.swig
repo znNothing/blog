@@ -19,6 +19,11 @@
     #}{{ totalcount(site, '0,0.0a') }}{#
   #}</span>
   {% endif %}
+  <div class=BbeiAn-info">
+  {{ __('皖ICP备') }} -
+  <a href="http://www.beian.miit.gov.cn/">20002155号-1</a>
+  </a>
+</div>
 </div>
 
 {% if theme.footer.powered %}
@@ -39,6 +44,8 @@
   #}</a>{% if theme.footer.theme.version %} v{{ theme.version }}{% endif %}{#
 #}</div>
 {% endif %}
+
+
 
 {% if theme.footer.custom_text %}
   <div class="footer-custom">{#
